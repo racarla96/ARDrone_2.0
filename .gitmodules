@@ -1,0 +1,9 @@
+[submodule "Trabajo-Miguel-ARDrone-2.0"]
+	path = Trabajo-Miguel-ARDrone-2.0
+	url = https://github.com/racarla96/Trabajo-Miguel-ARDrone-2.0
+[submodule "Simulink_ARDrone_2.0_Target"]
+	path = Simulink_ARDrone_2.0_Target
+	url = https://github.com/racarla96/Simulink_ARDrone_2.0_Target
+[submodule "ARDrone_2.0_playsheep.de"]
+	path = ARDrone_2.0_playsheep.de
+	url = https://github.com/racarla96/ARDrone_2.0_playsheep.de
